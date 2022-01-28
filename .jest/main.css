@@ -1,5 +1,11 @@
 
 
+.error-message {
+  font-size: 80%;
+  font-style: italic;
+  color: #db0f0f;
+}
+
 /* You can add global styles to this file, and also import other style files */
 
 /*!
